@@ -1,7 +1,7 @@
-package com.xiaojian.gmall.user.service;
+package com.xiaojian.gmall.service;
 
-import com.xiaojian.gmall.user.bean.UmsMember;
-import com.xiaojian.gmall.user.bean.UmsMemberReceiveAddress;
+import com.xiaojian.gmall.bean.UmsMember;
+import com.xiaojian.gmall.bean.UmsMemberReceiveAddress;
 
 import java.util.List;
 

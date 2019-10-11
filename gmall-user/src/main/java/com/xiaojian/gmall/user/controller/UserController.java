@@ -1,9 +1,9 @@
 package com.xiaojian.gmall.user.controller;
 
-import com.xiaojian.gmall.user.bean.UmsMember;
-import com.xiaojian.gmall.user.bean.UmsMemberReceiveAddress;
-import com.xiaojian.gmall.user.service.UserService;
-import org.apache.ibatis.annotations.Param;
+import com.xiaojian.gmall.bean.UmsMember;
+import com.xiaojian.gmall.service.UserService;
+import com.xiaojian.gmall.bean.UmsMember;
+import com.xiaojian.gmall.bean.UmsMemberReceiveAddress;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

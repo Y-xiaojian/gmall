@@ -1,11 +1,10 @@
 package com.xiaojian.gmall.user.service.impl;
 
-import com.sun.org.apache.bcel.internal.generic.RETURN;
-import com.xiaojian.gmall.user.bean.UmsMember;
-import com.xiaojian.gmall.user.bean.UmsMemberReceiveAddress;
+import com.xiaojian.gmall.bean.UmsMember;
+import com.xiaojian.gmall.bean.UmsMemberReceiveAddress;
+import com.xiaojian.gmall.service.UserService;
 import com.xiaojian.gmall.user.mapper.UmsMemberReceiveAddressMapper;
 import com.xiaojian.gmall.user.mapper.UserMapper;
-import com.xiaojian.gmall.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
